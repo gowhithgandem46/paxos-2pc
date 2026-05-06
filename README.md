@@ -569,7 +569,7 @@ sets, err := csv_parser.ParseCSV("your_test_file.csv")
 
 ## Authors
 
-- Sai Charan Jakkula
+- Gowhith Gandem
 
 ## Acknowledgments
 
